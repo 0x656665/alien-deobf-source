@@ -18,3 +18,6 @@ pretty sure the guy who made this shit is someone called "ring0" (who is nothing
 - Decompiled the deobfuscated JAR with [CFR](https://www.benf.org/other/cfr/), [Fernflower](https://github.com/fesh0r/fernflower) and [Procyon](https://github.com/ststeiger/procyon)
 
 ## i may come back with a cleaner source soon, enjoy :')
+
+## special thanks
+[@ldcSabo](https://github.com/ldcSabo) for helping with asm
